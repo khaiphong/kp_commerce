@@ -1,2 +1,3 @@
-# kp_commerce
-Commerce to promote "Core Values of Honesty &amp; Care" .
+# KpCommerce
+
+Sustainable commerce to promote [ Core Values of "#Truth >< #Honesty >< #Care ><" ]: qualified teams and required infrastrucures to make the projects self-sustainable.

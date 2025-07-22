@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/kp_commerce/target/debug/commerce: /home/batien/Kp/GitSrc/github.com/khaiphong/kp_commerce/commerce/src/main.rs /home/batien/Kp/GitSrc/github.com/khaiphong/kp_commerce/lib/src/lib.rs
